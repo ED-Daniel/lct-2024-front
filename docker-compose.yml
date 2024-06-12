@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  vue-app:
+  sxhornet/lct-front:
     ports:
       - '8080:80'
     environment:
