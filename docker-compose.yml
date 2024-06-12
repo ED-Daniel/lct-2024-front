@@ -1,7 +1,7 @@
 version: '3.8'
 
 services:
-  sxhornet/lct-front:
+  sxhornet/lct_front:
     ports:
       - '8080:80'
     environment:
